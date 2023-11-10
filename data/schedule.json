@@ -1,5 +1,13 @@
  [
   {"time" : "18:00", "details" : "doors open"}, 
-  {"time":"18.15" , "details": "First speaker"}
-
+  {"time":"18.15" , "details": "First speaker"},
+  {"time":"18.45" , "details": "Third speaker"},
+  {"time":"19.00" , "details": "Four speaker"},
+  {"time":"19.15" , "details": "Fifth speaker"},
+  {"time":"19.30" , "details": "Sixth speaker"},
+  {"time":"19.45" , "details": "Seventh speaker"},
+  {"time":"20.00" , "details": "Eigth speaker"},
+  {"time":"20.15" , "details": "Ninth speaker"},
+  {"time":"20.30" , "details": "Tenth speaker"},
+  {"time":"20.45" , "details": "Final word"}
 ]
