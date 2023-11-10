@@ -10,6 +10,11 @@ async function getSchedule(){
 function renderSchedule(scheduleArray){
   const container = document.getElementById("detailsContainer")
 
+  const scheduleH2 = document.createElement('h2');
+  scheduleH2.className = "scheduleH2";
+  scheduleH2.textContent ="Schedule";
+  container.appendChild(scheduleH2);
+
   const newUL = document.createElement("ul");
   newUL.className = "scheduleList"
   
