@@ -4,44 +4,63 @@
             "Front End":{
                 "keyword": ["HTML"],
                 "synopsis":""
-            },
+            }
+        },
+        {
             "XML":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },
+        {
+  
             "JSON":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },
+        {
             "Git":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },
+        {
             "HTML 6":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },  
+        {
             "Parsing Text":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },  
+        {
             "Back End":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },    
+        {
             "Ethics and AI":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },  
+        {
             "CSS 4":{
                 "keyword": [],
                 "synopsis":""
-            },
+            }
+        },  
+        {
             "Network":{
                 "keyword": [],
                 "synopsis":""
             }
-
-        }
+        }  
+            
     ]
 }

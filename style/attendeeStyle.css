@@ -9,6 +9,7 @@
     align-items: center;
     gap: 20px;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .persons{
@@ -23,6 +24,3 @@
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
-.attendeesContainer li{
-    
-}
