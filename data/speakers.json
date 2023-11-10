@@ -1,0 +1,94 @@
+{
+    "speakers":[
+        {
+            "firstName": "John",
+            "secondName": "Preisley",
+            "age": 43,
+            "company": "Microsoft",
+            "school": "NTU",
+            "subject": "Front End",
+            "Keynote": true
+        },
+        {
+            "firstName": "MOhammed",
+            "secondName": "Johnsson",
+            "age": 23,
+            "company": "Microsoft",
+            "school": "Uppsala University",
+            "subject": "XML",
+            "Keynote": false
+        },
+        {
+            "firstName": "Mustafa",
+            "secondName": "Abdi",
+            "age": 33,
+            "company": "Alphabet",
+            "school": "Stockholm University",
+            "subject": "JSON",
+            "Keynote": true
+        },
+        {
+            "firstName": "Alexande",
+            "secondName": "Kupier",
+            "age": 32,
+            "company": "New Ideas Corp.",
+            "school": "Chass Academy",
+            "subject": "Git",
+            "Keynote": true
+        },
+        {
+            "firstName": "Alexander",
+            "secondName": "Söderwall",
+            "age": 25,
+            "company": "Ericsson",
+            "school": "Chass Academy",
+            "subject": "HTML 6",
+            "Keynote": true
+        },
+        {
+            "firstName": "Ali",
+            "secondName": "Esmaeeli",
+            "age": 43,
+            "company": "BASH",
+            "school": "Linköping University",
+            "subject": "Parsing Text",
+            "Keynote": true
+        },
+        {
+            "firstName": "Johanna",
+            "secondName": "Merrell",
+            "age": 36,
+            "company": "Apple",
+            "school": "NYU",
+            "subject": "Back End",
+            "Keynote": false
+        },
+        {
+            "firstName": "Jennie",
+            "secondName": "Nielson",
+            "age": 63,
+            "company": "Meta",
+            "school": "Oxford University",
+            "subject": "Ethics and AI",
+            "Keynote": true
+        },
+        {
+            "firstName": "Merry",
+            "secondName": "Shelley",
+            "age": 23,
+            "company": "Amazon",
+            "school": "Florida University",
+            "subject": "CSS 4",
+            "Keynote": false
+        },
+        {
+            "firstName": "Bersteina",
+            "secondName": "McDonnald",
+            "age": 43,
+            "company": "Ebay",
+            "school": "NTU",
+            "subject": "Network",
+            "Keynote": true
+        }
+    ]
+}
