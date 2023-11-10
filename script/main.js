@@ -6,9 +6,9 @@ async function getSchedule(){
     console.log("maybe not")
   }
 }
-//ul list needs to be only created once
+
 function renderSchedule(scheduleArray){
-  const container = document.getElementById("detailsContainer")
+  const container = document.getElementById("containerTest")
 
   const scheduleH2 = document.createElement('h2');
   scheduleH2.className = "scheduleH2";
@@ -45,8 +45,17 @@ async function getAttendees(){
     const response = await fetch ('data/speakers.json');
     if (response.ok) {
         const jsonData = await response.json();
+
+        const attendeeH2 = document.createElement('h2');
+        attendeeH2.className = "attendeeH2";
+        attendeeH2.textContent = "Speaker List";
+        const container = document.getElementById("containerTest")
+        container.appendChild(attendeeH2);
+
         const attendeeList = document.createElement('div');
         attendeeList.id = 'mainContainer';
+
+
 
         
         
@@ -79,6 +88,7 @@ async function getAttendees(){
     }
 };
 
+getSchedule();
 getAttendees();
 
-getSchedule();
+
